@@ -382,7 +382,7 @@ contactForm.addEventListener('submit', async (e) => {
                 successMessage += '⚠️  Google Sheets: Setup pending\n';
             }
         } else {
-            successMessage = '⚠️  Oops! Something went wrong.\n\nPlease contact me directly:\n📱 +91 9967603151\n📧 survedhiraj1998@gmail.com';
+            successMessage = '⚠️  Oops! Something went wrong.\n\nPlease contact me directly:\n📱 +91 9967603151\n📧 nextgoals365@gmail.com';
         }
         
         alert(successMessage);
